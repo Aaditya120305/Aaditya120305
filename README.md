@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<p align="center">“Great web design without functionality is like a sports car with no engine.”</p>
+<p align="center">“Great web design without functionality is like a sports car with no engine.”</p>   vv
 
 ###
 
